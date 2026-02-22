@@ -1,0 +1,20 @@
+{
+    "name": "Firebase.WebGL.UniTask.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "Firebase.WebGL.Runtime",
+        "UniTask"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WebGL"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

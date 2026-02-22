@@ -1,0 +1,22 @@
+{
+    "name": "com.am1goo.firebase.webgl.unitask",
+    "version": "0.6.0",
+    "displayName": "Firebase for WebGL (UniTask extensions)",
+    "description": "Naive wrapper over JavaScript Firebase library",
+    "unity": "2022.3",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.am1goo.firebase.webgl": "https://github.com/am1goo/firebase-for-unity-webgl.git#0.3.1"
+    },
+    "keywords": [
+        "realtime",
+        "firebase",
+        "analytics"
+    ],
+    "author": {
+        "name": "Pavel 'am1goo' Shestakov",
+        "email": "0xShestakov@gmail.com",
+        "url": "https://github.com/am1goo"
+    },
+    "type": "library"
+}
