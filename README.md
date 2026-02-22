@@ -5,8 +5,8 @@ Extensions for original Firebase for Unity WebGL package.
 - callback-based API turned to be async/await API
 
 ## Requirements
-- [com.am1goo.firebase.webgl](https://github.com/am1goo/FirebaseWebGL-Unity) package
-- [com.cysharp.unitask](https://github.com/Cysharp/UniTask) package
+- **Firebase for Unity WebGL** package: [com.am1goo.firebase.webgl](https://github.com/am1goo/FirebaseWebGL-Unity)
+- **UniTask** package: [com.cysharp.unitask](https://github.com/Cysharp/UniTask)
 
 ## Installation
 ##### via Unity Package Manager
