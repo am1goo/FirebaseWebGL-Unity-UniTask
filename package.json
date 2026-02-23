@@ -1,6 +1,6 @@
 {
     "name": "com.am1goo.firebase.webgl.unitask",
-    "version": "0.6.0",
+    "version": "0.7.0",
     "displayName": "Firebase for WebGL (UniTask extensions)",
     "description": "Naive wrapper over JavaScript Firebase library",
     "unity": "2022.3",

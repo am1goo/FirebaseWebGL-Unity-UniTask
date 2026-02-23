@@ -12,7 +12,7 @@ Extensions for original Firebase for Unity WebGL package.
 ##### via Unity Package Manager
 The latest version can be installed via [package manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html) using following git URL:
 ```
-https://github.com/am1goo/FirebaseWebGL-Unity-UniTask.git#0.6.0
+https://github.com/am1goo/FirebaseWebGL-Unity-UniTask.git#0.7.0
 ```
 
 ## How to use
