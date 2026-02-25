@@ -12,7 +12,7 @@ Extensions for original Firebase for Unity WebGL package.
 ##### via Unity Package Manager
 The latest version can be installed via [package manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html) using following git URL:
 ```
-https://github.com/am1goo/FirebaseWebGL-Unity-UniTask.git#0.8.0
+https://github.com/am1goo/FirebaseWebGL-Unity-UniTask.git#0.9.0
 ```
 
 ## How to use
@@ -46,9 +46,9 @@ async UniTask InitializeAsync(CancellationToken cancellationToken)
 
 #### Do what you want as same as you do it in official plugin (or kind of similar way)
 ```csharp
-...
-        app.Analytics.LogEvent("my event");
-...
+.. .
+... app.Analytics.LogEvent("my event");
+.. .
 ```
 
 ## Tested in
